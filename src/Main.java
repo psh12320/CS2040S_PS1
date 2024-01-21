@@ -15,7 +15,7 @@ public class Main {
     }
 
     public static void main(String args[]) {
-        int output = MysteryFunction(5, 5);
+        int output = MysteryFunction(5, 6);
         System.out.printf("The answer is: " + output + ".");
     }
 }
